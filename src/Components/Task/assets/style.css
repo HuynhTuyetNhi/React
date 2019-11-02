@@ -1,0 +1,80 @@
+/* Description */
+.descriptWork h2{
+  text-align: left;
+}
+.modal-log-work {
+  text-align: left;
+}
+.modal-log-work #timeUp{
+  width: 200px;
+  margin-left:20px;
+}
+.form-log{
+  display: flex;
+  margin-bottom:10px;
+}
+.form-log label{
+  padding-top: 10px;
+}
+.modal-log-work #dateStarted{
+  width: 200px;
+  margin-left:10px;
+}
+.detail-work-task {
+  margin-top:20px;
+  margin-left:20px;
+}
+.detail-work-task ul li{
+  list-style: none;
+}
+.detail-work-task .text-detail{
+  text-align: left;
+}
+.detail-work-task .item-detail-right{
+  margin-left:100px;
+}
+.detail-work-task .item-detail-left{
+  color: #999 ;
+}
+.detail-work-task h4{
+  text-align: left;
+}
+/* /Description */
+
+/* TaskWork */
+.taskWork .list-item-left li{
+  list-style: none;
+}
+.taskWork ul{
+  width:100%;
+}
+.taskWork .task-content ul li{
+  display: inline-flex;
+  list-style: none;
+  width: 18%;
+  border:1px solid black;
+  height:900px;
+  margin-left:24px;
+  background: #f4f5f7
+}
+.taskWork .task-content .card{
+  margin:10px;
+}
+.taskWork .text-task ul li
+{
+  display: inline-flex;
+  list-style: none;
+  width: 18%;
+  margin-left:24px;
+
+}
+.taskWork .spinner {
+  margin-left:15px;
+}
+/* /TaskWork */
+.input-assign{
+  position: absolute;
+  top: 22px;
+  width: 175px;
+}
+

@@ -1,0 +1,68 @@
+/* .btn-toggle {
+
+} */
+.sprint{
+  margin-bottom: 10px;
+}
+.btn-toggle {
+  position: absolute;
+  left: 1260px;
+  top: -14px;
+  height: 35px;
+}
+/* .show-content {
+  position: absolute;
+  left: 1260px;
+  top: -14px;
+  height: 35px;
+} */
+.custom .btn-toggle {
+  position: absolute;
+  left:925px;
+}
+/* .custom .show-content{
+  position: absolute;
+  left: 925px;
+  margin-bottom:50px;
+} */
+.show-epic{
+  transform: rotate(270deg);
+  top: -60px;
+  left: -3px;
+}
+.card-content-epic{
+  transform: rotate(90deg);
+  top: 53px;
+  right: 49px;
+}
+.card-content-epic span:nth-child(2){
+  float: right;
+}
+.card-content-epic span:nth-child(1){
+  float: left;
+}
+.card-content-epic button{
+  margin-bottom: 10px;
+}
+.list-sprint ul{
+  list-style: none
+}
+.list-sprint {
+  text-align: left;
+  margin-left: 70px;
+}
+.hover-item {
+  color: red
+}
+.option-add{
+  position: absolute;
+  left: 1200px;
+}
+.option-add .button{
+  background: transparent
+}
+button.dropdown-toggle.btn.btn-secondary {
+  background: traspa;
+  background: transparent;
+  border: aliceblue;
+}

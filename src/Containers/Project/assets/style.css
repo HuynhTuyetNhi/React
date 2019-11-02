@@ -1,0 +1,44 @@
+.listProject .user-tag{
+  position: absolute;
+  top: -100px;
+  left: -300px;
+  height: 1030px;
+  background: #80b3ff;
+}
+.content-user{
+  position: absolute;
+  top: 235px;
+  left: 406px;
+}
+.description p{
+  color: black;
+  font-family: 'Streetscript', sans-serif;
+}
+.task-list {
+  position: absolute;
+  width: 400px;
+  top: 100px;
+  left: 305px;
+}
+.detail-task-user {
+  /* border: 1px solid; */
+  background: none;
+  opacity:1;
+  /* background-image: url(https://static.tumblr.com/b7cb93100fef46bbe2be19840c62005d/vppzax2/2Qmor2l90/tumblr_static_bdwuf2kn1g08ww4gcss48scwc.jpg) */
+}
+.detail-task-user:hover{
+  transition: opacity .25s ease-in-out;
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+}
+.btn-view {
+  margin-top:80px;
+}
+.btn-view span{
+  color: black;
+}
+/* .wrap-content{
+
+} */

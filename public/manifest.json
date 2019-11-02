@@ -1,0 +1,20 @@
+{
+  "short_name": "Jirallo",
+  "name": "Jirallo",
+  "icons": [
+    {
+      "src": "logo-menu-small-2.jpg.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-menu-small.jpg.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }	    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
